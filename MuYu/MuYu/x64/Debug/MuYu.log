@@ -1,0 +1,16 @@
+﻿D:\Microsoft Visual Studio 软件\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(电子木鱼.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  tools.cpp
+D:\电子目录-上课资源\tools.cpp(14,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\电子目录-上课资源\tools.cpp(57,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Yuan.cpp
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(48,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(61,12): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(62,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(62,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(65,12): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(66,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(66,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(82,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\94347\source\repos\MuYu\MuYu\Yuan.cpp(118,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  MuYu.vcxproj -> C:\Users\94347\source\repos\MuYu\x64\Debug\MuYu.exe
